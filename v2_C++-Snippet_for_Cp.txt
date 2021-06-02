@@ -73,7 +73,7 @@
 			"init();",
 			"#endif",
 			"ll t = 1;",
-			"cin >> t;",
+			"$2cin >> t;",
 			"rep(i,1, t + 1) solve(i);",
 			"return 0;",
 			"}",
